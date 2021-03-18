@@ -42,7 +42,7 @@ Link: [http://indiancuisine.us-east-2.elasticbeanstalk.com/](http://indiancuisin
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/330px-Bootstrap_logo.svg.png" width=170>](https://getbootstrap.com/docs/3.4/)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width=170>]()[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width=170>]()
 
 
-[Jay Soni](https://www.linkedin.com/in/jane-alam-90824396/) |)
+(https://www.linkedin.com/in/jane-alam-90824396/) |)
 
 ## Credits
 - Cuisine Images credits goes to bing search engine
