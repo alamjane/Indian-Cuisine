@@ -13,9 +13,6 @@ This project is about **Indian Cuisine** here i have 255 famous indian dishes. W
 Here i have used youtube videos for cuisine recipe and i have build a machine learning model using cosine similarity for recommendation
 
 ## Demo
-- I have deployed this on AWS Elastic Beanstalk platform
-
-Link: [http://indiancuisine.us-east-2.elasticbeanstalk.com/](http://indiancuisine.us-east-2.elasticbeanstalk.com/)
 
  ![GIF](readme_resources/projectDemo.gif)
 
